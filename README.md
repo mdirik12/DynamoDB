@@ -1,2 +1,2 @@
 # DynamoDB
-Code Sample Related to DynamoDB
+Sample CodeRelated to DynamoDB
